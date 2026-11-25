@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ravi (Rachakonda-Ravi) 👋
 
-<!--
-**Rachakonda-Ravi/Rachakonda-Ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software developer building tools, games, and applications across various domains.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Games](https://github.com/Rachakonda-Ravi/Games)** — A collection of web-based games built with HTML, CSS, and JavaScript.
+- **[Download-Manager](https://github.com/Rachakonda-Ravi/Download-Manager)** — A Java-based application for managing and organizing file downloads efficiently.
+- **[Library_Management](https://github.com/Rachakonda-Ravi/Library_Management)** — A shell-scripted library management system to handle cataloging and records.
+- **[IMG-PDF](https://github.com/Rachakonda-Ravi/IMG-PDF)** — A lightweight JavaScript tool to convert images into PDF documents.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, JavaScript, Shell Scripting, HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub
+
+---
+*Welcome to my GitHub profile! Feel free to explore my repositories.*
