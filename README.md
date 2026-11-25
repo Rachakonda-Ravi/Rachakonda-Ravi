@@ -1,4 +1,4 @@
-# Hi, I'm Ravi (Rachakonda-Ravi) 👋
+# Hi, I'm Ravi 
 
 A passionate software developer building tools, games, and applications across various domains.
 
@@ -14,5 +14,4 @@ A passionate software developer building tools, games, and applications across v
 - **Languages:** Java, JavaScript, Shell Scripting, HTML5, CSS3
 - **Tools & Platforms:** Git, GitHub
 
----
-*Welcome to my GitHub profile! Feel free to explore my repositories.*
+
